@@ -1,0 +1,16 @@
+html, body, .root {
+    height: 100%;
+}
+
+body {
+    line-height: 1.5;
+}
+
+/* App */
+.app {
+    background: white;
+    margin: 0px auto;
+    display: block;
+    height: 100%;
+    width: 100%;
+}
